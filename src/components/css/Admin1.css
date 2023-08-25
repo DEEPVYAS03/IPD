@@ -1,0 +1,158 @@
+.admin-portal,
+.resume-screening-web {
+  position: absolute;
+  top: 6px;
+  left: 65px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  width: 921px;
+  height: 100px;
+}
+.resume-screening-web {
+  top: 106px;
+  left: 80px;
+  font-size: var(--font-size-base);
+  width: 389px;
+  height: 20px;
+}
+.past-jobs-created {
+  position: absolute;
+  top: 200px;
+  left: 495px;
+  font-size: var(--font-size-23xl);
+  display: inline-block;
+  width: 405px;
+}
+.admin1-child {
+  position: absolute;
+  top: 287px;
+  left: 74px;
+  background-color: var(--color-gainsboro);
+  width: 1272px;
+  height: 73px;
+}
+.python-developer {
+  position: absolute;
+  top: 291px;
+  left: 106px;
+  display: flex;
+  align-items: center;
+  width: 389px;
+  height: 69px;
+}
+.admin1-item {
+  position: absolute;
+  top: 412px;
+  left: 74px;
+  background-color: var(--color-gainsboro);
+  width: 1272px;
+  height: 426px;
+}
+.button3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.button2,
+.rank,
+.resume-score,
+.student-name {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-xl);
+  background-color: var(--color-cornflowerblue);
+  height: 5.32%;
+  width: 10.09%;
+  top: 4.4%;
+  right: 3.71%;
+  bottom: 90.28%;
+  left: 86.2%;
+  border-radius: var(--br-3xs);
+  flex-direction: row;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.rank,
+.resume-score,
+.student-name {
+  top: 416px;
+  left: 331px;
+  width: 389px;
+  height: 69px;
+}
+.rank,
+.resume-score {
+  left: 124px;
+}
+.resume-score {
+  top: 412px;
+  left: 921px;
+}
+.b,
+.deep-vyas {
+  top: 0;
+  display: inline-block;
+}
+.deep-vyas {
+  position: absolute;
+  left: 225px;
+  text-align: left;
+  width: 389px;
+  height: 40px;
+}
+.b {
+  left: 815px;
+  width: 283px;
+}
+.b,
+.b1,
+.deep-vyas-parent {
+  position: absolute;
+  height: 40px;
+}
+.b1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 135px;
+}
+.deep-vyas-parent {
+  top: 541px;
+  left: 106px;
+  width: 1098px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.gautam-soni-parent,
+.samkit-shah-parent {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 1098px;
+  height: 40px;
+}
+.gautam-soni-parent {
+  top: 613px;
+  left: 106px;
+  height: 110px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.admin1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1536px;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

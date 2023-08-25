@@ -1,0 +1,182 @@
+.student-portal1 {
+    position: absolute;
+    top: 10px;
+    left: 55px;
+    font-size: var(--font-size-61xl);
+    display: inline-block;
+    width: 921px;
+    height: 100px;
+  }
+  .resume-screening-web2 {
+    position: absolute;
+    top: 110px;
+    left: 74px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 389px;
+    height: 20px;
+  }
+  .available-jobs {
+    position: absolute;
+    top: 231px;
+    left: 84px;
+    font-size: var(--font-size-23xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 405px;
+  }
+  .button9 {
+    position: relative;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button8 {
+    cursor: pointer;
+    border: none;
+    padding: 0px var(--padding-xl);
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    height: 4.51%;
+    width: 9.64%;
+    top: 5.67%;
+    right: 6.05%;
+    bottom: 89.81%;
+    left: 84.31%;
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .candidate-child {
+    position: absolute;
+    top: 315px;
+    left: 83px;
+    background-color: var(--color-gainsboro);
+    width: 1322px;
+    height: 76px;
+  }
+  .candidate-item {
+    position: absolute;
+    top: 439px;
+    left: 83px;
+    background-color: var(--color-gainsboro);
+    width: 1322px;
+    height: 73px;
+  }
+  .python-developer2 {
+    position: absolute;
+    top: 322px;
+    left: 115px;
+    display: flex;
+    align-items: center;
+    width: 389px;
+    height: 69px;
+  }
+  .web-developer {
+    position: absolute;
+    top: 443px;
+    left: 115px;
+    display: flex;
+    align-items: center;
+    width: 389px;
+    height: 69px;
+  }
+  .button11 {
+    position: relative;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button10 {
+    cursor: pointer;
+    border: none;
+    padding: 0px var(--padding-xl);
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    height: 4.39%;
+    width: 18.54%;
+    top: 38.66%;
+    right: 10.89%;
+    bottom: 56.95%;
+    left: 70.57%;
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .button12 {
+    cursor: pointer;
+    border: none;
+    padding: 0px var(--padding-xl);
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    height: 4.39%;
+    width: 18.54%;
+    top: 38.66%;
+    right: 31.46%;
+    bottom: 56.95%;
+    left: 50%;
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .button14 {
+    cursor: pointer;
+    border: none;
+    padding: 0px var(--padding-xl);
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    height: 4.39%;
+    width: 18.54%;
+    top: 53.13%;
+    right: 10.89%;
+    bottom: 42.48%;
+    left: 70.57%;
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .button16 {
+    cursor: pointer;
+    border: none;
+    padding: 0px var(--padding-xl);
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    height: 4.39%;
+    width: 18.54%;
+    top: 52.89%;
+    right: 31.46%;
+    bottom: 42.71%;
+    left: 50%;
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .candidate {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1536px;
+    height: 864px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

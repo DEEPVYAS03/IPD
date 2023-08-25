@@ -1,0 +1,126 @@
+.student-portal {
+  position: absolute;
+  top: 14px;
+  left: 47px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  width: 921px;
+  height: 100px;
+}
+.resume-screening-web1 {
+  position: absolute;
+  top: 114px;
+  left: 83px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 389px;
+  height: 20px;
+}
+.button5 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.button4 {
+  cursor: pointer;
+  border: none;
+  padding: 0px var(--padding-xl);
+  background-color: var(--color-cornflowerblue);
+  position: absolute;
+  height: 5.67%;
+  width: 10.48%;
+  top: 5.79%;
+  right: 4.23%;
+  bottom: 88.54%;
+  left: 85.29%;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.candidate1-child {
+  position: absolute;
+  top: 212px;
+  left: 83px;
+  background-color: var(--color-gainsboro);
+  width: 1272px;
+  height: 73px;
+}
+.python-developer1 {
+  position: absolute;
+  top: 216px;
+  left: 115px;
+  display: flex;
+  align-items: center;
+  width: 389px;
+  height: 69px;
+  -webkit-text-stroke: 1px #000;
+}
+.button7 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.button6 {
+  cursor: pointer;
+  border: none;
+  padding: 0px var(--padding-xl);
+  background-color: var(--color-cornflowerblue);
+  position: absolute;
+  height: 6.48%;
+  width: 26.04%;
+  top: 36.46%;
+  right: 36.98%;
+  bottom: 57.06%;
+  left: 36.98%;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.candidate1-item {
+  position: absolute;
+  top: 419px;
+  left: 83px;
+  background-color: var(--color-gainsboro);
+  width: 1272px;
+  height: 400px;
+}
+.resume-score- {
+  position: absolute;
+  top: 443px;
+  left: 137px;
+  display: flex;
+  align-items: center;
+  width: 1124px;
+  height: 69px;
+}
+.key-words-matched {
+  position: absolute;
+  top: 542px;
+  left: 134px;
+  font-size: var(--font-size-23xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 1176px;
+}
+.candidate1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1536px;
+  height: 864px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
